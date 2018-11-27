@@ -17,3 +17,5 @@ Injection flaws, such as SQL, OS, and LDAP injection, occur when untrusted data 
 .. include:: _includes/Log-Injection.rst
 .. include:: _includes/Directory-Traversal.rst
 .. include:: _includes/XML-Injection.rst
+
+File translated (to pt-BR) in: https://periciacomputacional.com/ataques-de-injecao-injection-attacks
